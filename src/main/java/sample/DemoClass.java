@@ -7,7 +7,7 @@ public class DemoClass {
 	@Test
 	public void newMethod()
 	{
-		System.out.println("Not checking");
+		System.out.println("more checking");
 	}
 
 }
