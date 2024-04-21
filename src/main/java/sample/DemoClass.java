@@ -9,5 +9,10 @@ public class DemoClass {
 	{
 		System.out.println("more checking");
 	}
+	@Test
+	public void ne()
+	{
+		System.out.println("checking done");
+	}
 
 }
