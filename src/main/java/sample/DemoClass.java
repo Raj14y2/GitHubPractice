@@ -14,5 +14,11 @@ public class DemoClass {
 	{
 		System.out.println("checking done");
 	}
+	@Test
+	public void testu()
+	{
+		System.out.println("raju");
+	}
+	
 
 }
